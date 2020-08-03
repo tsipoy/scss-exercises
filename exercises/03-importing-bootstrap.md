@@ -14,7 +14,7 @@ Once Bootstrap has been added you should see a message such as:
 npm WARN bootstrap@4.5.0 requires a peer of jquery@1.9.1 - 3
 npm WARN bootstrap@4.5.0 requires a peer of popper.js@^1.16.0
 
-You must install peer dependencies yourself.
+You must instal yourself.
 ```
 
 What this means is we'll have to add these JavaScript dependencies if we want to use Bootstrap's JavaScript components. Bootstrap's JS can't run without jQuery and Popper.

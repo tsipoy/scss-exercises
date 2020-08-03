@@ -18,5 +18,8 @@
   "homepage": "https://github.com/onja-org/scss-exercises#readme",
   "devDependencies": {
     "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0"
   }
 }
