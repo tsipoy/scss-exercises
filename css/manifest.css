@@ -4,6 +4,9 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+.pannel-components {
+  background-color: #ced4da; }
+
 *,
 *::before,
 *::after {

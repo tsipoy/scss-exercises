@@ -7,7 +7,6 @@
 
  @import "../node_modules/bootstrap/scss/functions";
 // @import "../scss/variables/bootstrap-defaults";
- @import "../scss/variables/bootstrap-custom";
  @import "../node_modules/bootstrap/scss/mixins";
  // @import "../node_modules/bootstrap/scss/root";
  @import "../node_modules/bootstrap/scss/reboot";
@@ -44,3 +43,6 @@
  @import "../node_modules/bootstrap/scss/utilities";
  // @import "../node_modules/bootstrap/scss/print";
  
+ // Import scss
+ @import "../scss/variables/bootstrap-custom";
+ @import "../scss/components/panels.scss";
